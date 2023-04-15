@@ -1,5 +1,5 @@
-import PIC1 from 'C:/Users/ASUS/Desktop/healthsakha/src/Mymedia/Health.png'
-import PIC2 from 'C:/Users/ASUS/Desktop/healthsakha/src/Mymedia/Human Resources System.png'
+import PIC1 from './Health.png'
+import PIC2 from './Human Resources System.png'
 import './homepage.css'
 
 
